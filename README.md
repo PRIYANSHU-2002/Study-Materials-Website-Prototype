@@ -11,3 +11,7 @@ Team Members:
 Google Drive Link for Project Video:
 
 https://drive.google.com/file/d/1UNNsPOScDiPOVeE2aNhXJoOvFeQR5wnH/view?usp=sharing
+
+The site is live at:
+
+ https://priyanshu-2002.github.io/Study-Materials-Website-Prototype.github.io/
