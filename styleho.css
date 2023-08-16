@@ -15,7 +15,7 @@ header
 
 body
 {
-    background-image: url('../ig1.jpg');
+    background: url("ig1.jpg");
     height:100%;
     background-position: center;
     background-size:cover;
